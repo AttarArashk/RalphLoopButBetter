@@ -21,7 +21,7 @@ Most AI coding workflows break down when the task gets long.
 
 The agent starts strong, then slowly loses context, forgets product intent, edits unrelated files, weakens tests, or declares victory before the system actually works.
 
-Ralph Loop for Codex is designed around a different assumption:
+Ralph Loop But Better is designed around a different assumption:
 
 > The agent should not be trusted to decide when it is done.  
 > The loop should decide.
